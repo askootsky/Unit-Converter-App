@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Unite Converter</string>
+    <string name="explanation">
+        Convert between length, weight, and temperature units.\n
+        The conversion offers precision up to 2 decimal points.
+    </string>
+    <string-array name="unit_types">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="length_units">
+        <item>Feet</item>
+        <item>Meters</item>
+        <item>Miles</item>
+        <item>Kilometers</item>
+    </string-array>
+    <string-array name="weight_units">
+        <item>Pounds</item>
+        <item>Kilograms</item>
+        <item>Stone</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
